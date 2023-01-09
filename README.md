@@ -5,12 +5,12 @@
     <a href="https://www.linkedin.com/in/leonardoxavier041695">Leonardo Xavier 😃️</a>
   </h1>
   
- <div align="center">
+ <div align="center" style="display: block">
   <a href="https://github.com/LeoXavier95">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoXavier95&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img align=right height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoXavier95&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeoXavier95&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img align=right height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoXavier95&theme=dark&hide_border=false&&layout=compact"/>
   </a>
-</div><br>
+</div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
